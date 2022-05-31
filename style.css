@@ -19,7 +19,6 @@ header {
 
 .intro-chunk {
   width: 660px;
-  min-width: min-content;
   max-width: 100%;
   margin: 0 auto;
   padding: 40px 16px;
